@@ -26,7 +26,7 @@ The dashboard is organized into **three main pages**, accessible via the **Home 
 ## Insights & Suggestions
 
 ### 1. General Overview
-
+![](https://github.com/AlishaMahanty/Shield-Insurance-Analytics/blob/main/Dashboard_images/Overview.png)
 
 Insights (what the business can learn from this page):
 
@@ -48,7 +48,7 @@ Suggestions (what the business could act on):
 - Visual Enhancements: Conditional formatting or color highlights on top cities/age groups can make insights more actionable at a glance.
 
 ### 2. Sales Mode Analysis
-
+![](https://github.com/AlishaMahanty/Shield-Insurance-Analytics/blob/main/Dashboard_images/Sales%20Mode.png)
 
 Insights (what the business can learn from this page):
 
@@ -66,7 +66,7 @@ Suggestions (what the business could act on):
 - Visual Enhancements: Use color coding for channels in charts to make trends and splits more intuitive at a glance.
 
 ### 3. Age Group Analysis
-
+![](https://github.com/AlishaMahanty/Shield-Insurance-Analytics/blob/main/Dashboard_images/Age%20Group.png)
 
 Insights (what the business can learn from this page):
 
