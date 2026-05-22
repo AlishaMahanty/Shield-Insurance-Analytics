@@ -15,7 +15,7 @@ Completed during my Virtual Internship at Codebasics, the dashboard delivers **a
 
 ## Dashboard Structure
 
-The dashboard is organized into **three main pages**, accessible via the Home Page navigation:
+The dashboard is organized into **three main pages**, accessible via the **Home Page** navigation:
 
 1. **General Overview** – High-level KPIs including total customers, total revenue, daily growth rates, and monthly trends. City-wise and age group-wise breakdowns provide actionable insights at a glance.  
 
