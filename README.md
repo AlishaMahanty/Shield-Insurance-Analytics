@@ -28,7 +28,7 @@ The dashboard is organized into **three main pages**, accessible via the **Home 
 ### 1. General Overview
 ![](https://github.com/AlishaMahanty/Shield-Insurance-Analytics/blob/main/Dashboard_images/Overview.png)
 
-Insights (what the business can learn from this page):
+#### Insights (what the business can learn from this page):
 
 - Customer Metrics: Total customers (26.8K) indicate the overall customer base size and growth potential.
 - Revenue Metrics: Total revenue (989.3M) provides a snapshot of business performance.
@@ -38,7 +38,7 @@ Insights (what the business can learn from this page):
 - Age Group Metrics: Largest contribution comes from 31–40 age group (356M revenue, 11,455 customers), identifying key customer demographics.
 - City & Age Group Split: Detailed table enables the business to target both city and age-specific marketing or policy strategies.
 
-Suggestions (what the business could act on):
+#### Suggestions (what the business could act on):
 
 - Focus Marketing & Sales Efforts: Prioritize high-revenue and high-customer cities like Delhi NCR and Mumbai for campaigns.
 - Target Key Age Groups: 31–40 and 65+ age groups show the highest revenue contributions—develop products or promotions tailored to them.
@@ -50,14 +50,14 @@ Suggestions (what the business could act on):
 ### 2. Sales Mode Analysis
 ![](https://github.com/AlishaMahanty/Shield-Insurance-Analytics/blob/main/Dashboard_images/Sales%20Mode.png)
 
-Insights (what the business can learn from this page):
+#### Insights (what the business can learn from this page):
 
 - Customer Split: Offline-Agent channel dominates (14.9K, 55.4%), indicating strong reliance on agents for customer acquisition.
 - Revenue Split: Offline-Agent also contributes the highest revenue (551M, 55.7%), showing it is the most profitable channel.
 - Other Channels: Online-App, Offline-Direct, and Online-Website contribute smaller but meaningful portions, highlighting potential growth opportunities.
 - Monthly Trend by Sales Mode: Trends show fluctuating customer acquisition across channels. For example, March shows peaks across multiple channels, suggesting seasonal or campaign impact.
 
-Suggestions (what the business could act on):
+#### Suggestions (what the business could act on):
 
 - Optimize Channel Strategy: Focus on strengthening high-performing channels (Offline-Agent) while strategizing growth for smaller channels like Online-Website.
 - Campaign Timing: Analyze the March spike for patterns and replicate successful strategies in other months.
@@ -68,7 +68,7 @@ Suggestions (what the business could act on):
 ### 3. Age Group Analysis
 ![](https://github.com/AlishaMahanty/Shield-Insurance-Analytics/blob/main/Dashboard_images/Age%20Group.png)
 
-Insights (what the business can learn from this page):
+#### Insights (what the business can learn from this page):
 
 - Estimated Settlement % by Age Group: Higher settlement rates in older age groups (65+: 74.3%, 51–65: 65.3%) indicate more claim activity or premium contributions.
 - Customer Distribution: The 31–40 age group contributes the largest customer base (11.5K), making it a critical segment for marketing and retention.
@@ -76,7 +76,7 @@ Insights (what the business can learn from this page):
 - Policy Preference by Age Group: Heatmap highlights the most popular policies by age group, revealing potential cross-selling and targeting opportunities.
 - Customer Trend by Age Group: Sankey/area chart shows how customer counts change over time across age groups, identifying growth trends and seasonality.
 
-Suggestions (what the business could act on):
+#### Suggestions (what the business could act on):
 
 - Target Key Age Segments: Focus marketing campaigns on 31–40 and 65+ age groups to maximize engagement and revenue.
 - Optimize Sales Channels: Align channel strategies to customer preferences in each age group (online for younger, agent-based for older).
