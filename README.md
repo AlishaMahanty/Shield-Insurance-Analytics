@@ -86,3 +86,14 @@ The dashboard is organized into **three main pages**, accessible via the **Home 
 - Policy Promotion: Use heatmap insights to promote top policies for each age group and identify gaps in coverage.
 - Monitor Settlements: Track high-settlement age groups to anticipate claims or adjust product offerings.
 - Visual Enhancements: Apply consistent color coding across all charts for age groups to improve clarity and quick insights.
+
+## Key Learnings
+
+- Gained hands-on experience in **building interactive Power BI dashboards** with dynamic KPIs, filters, and multi-page navigation.  
+- Developed strong skills in **data modeling and DAX calculations** for metrics like daily growth rates and settlement percentages.  
+- Learned to create **clear, actionable visual insights** for management and business stakeholders.  
+- Improved understanding of **customer behavior, sales channel performance, and age group analysis** through data visualization.  
+- Enhanced **dashboard design skills**, including layout consistency, color schemes, and intuitive navigation.  
+- Strengthened **analytical thinking** and the ability to translate data into **business-driven insights**.  
+- Improved **storytelling and communication skills**, by presenting complex metrics in a concise and engaging manner to guide decision-making.  
+- Developed **problem-solving and attention-to-detail** skills while ensuring data accuracy and dashboard usability.
