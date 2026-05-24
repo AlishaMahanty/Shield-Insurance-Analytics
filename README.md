@@ -42,11 +42,10 @@ The dashboard is organized into **three main pages**, accessible via the **Home 
 #### Suggestions (what the business could act on):
 
 - Focus Marketing & Sales Efforts: Prioritize high-revenue and high-customer cities like Delhi NCR and Mumbai for campaigns.
-- Target Key Age Groups: 31–40 and 65+ age groups show the highest revenue contributions—develop products or promotions tailored to them.
+- Target Key Age Groups: 31–40 and 41-50 age groups show the highest revenue contributions—develop products or promotions tailored to them.
 - Investigate Anomalies: March revenue spike may indicate seasonal policy uptake or campaign effects—review for insights.
 - Monitor Daily Growth: Track DCGR and DRGR to quickly respond to sudden drops or growth surges.
 - Use Data-Driven Decisions: Leverage city & age group split to tailor localized marketing, policy adjustments, and customer retention strategies.
-- Visual Enhancements: Conditional formatting or color highlights on top cities/age groups can make insights more actionable at a glance.
 
 ### 2. Sales Mode Analysis
 
@@ -65,7 +64,6 @@ The dashboard is organized into **three main pages**, accessible via the **Home 
 - Campaign Timing: Analyze the March spike for patterns and replicate successful strategies in other months.
 - Balance Channel Investment: Use revenue and customer contribution insights to allocate marketing and sales resources efficiently across channels.
 - Monitor Channel Performance: Track channel-wise metrics over time to detect drops in acquisition or revenue and intervene quickly.
-- Visual Enhancements: Use color coding for channels in charts to make trends and splits more intuitive at a glance.
 
 ### 3. Age Group Analysis
 
@@ -76,16 +74,15 @@ The dashboard is organized into **three main pages**, accessible via the **Home 
 - Estimated Settlement % by Age Group: Higher settlement rates in older age groups (65+: 74.3%, 51–65: 65.3%) indicate more claim activity or premium contributions.
 - Customer Distribution: The 31–40 age group contributes the largest customer base (11.5K), making it a critical segment for marketing and retention.
 - Age Group vs Sales Mode: Shows how each age group prefers different sales channels. For example, younger segments may prefer online channels, while older segments rely more on Offline-Agent.
-- Policy Preference by Age Group: Heatmap highlights the most popular policies by age group, revealing potential cross-selling and targeting opportunities.
-- Customer Trend by Age Group: Sankey/area chart shows how customer counts change over time across age groups, identifying growth trends and seasonality.
+- Policy Preference by Age Group: It highlights the most popular policies by age group, revealing potential cross-selling and targeting opportunities.
+- Customer Trend by Age Group: It shows how customer counts change over time across age groups, identifying growth trends and seasonality.
 
 #### Suggestions (what the business could act on):
 
 - Target Key Age Segments: Focus marketing campaigns on 31–40 and 65+ age groups to maximize engagement and revenue.
 - Optimize Sales Channels: Align channel strategies to customer preferences in each age group (online for younger, agent-based for older).
-- Policy Promotion: Use heatmap insights to promote top policies for each age group and identify gaps in coverage.
+- Policy Promotion: Use insights to promote top policies for each age group and identify gaps in coverage.
 - Monitor Settlements: Track high-settlement age groups to anticipate claims or adjust product offerings.
-- Visual Enhancements: Apply consistent color coding across all charts for age groups to improve clarity and quick insights.
 
 ## Key Learnings
 
