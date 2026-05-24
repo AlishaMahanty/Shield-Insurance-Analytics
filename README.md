@@ -97,3 +97,9 @@ The dashboard is organized into **three main pages**, accessible via the **Home 
 - Strengthened **analytical thinking** and the ability to translate data into **business-driven insights**.  
 - Improved **storytelling and communication skills**, by presenting complex metrics in a concise and engaging manner to guide decision-making.  
 - Developed **problem-solving and attention-to-detail** skills while ensuring data accuracy and dashboard usability.
+
+## Project Resources
+
+- **Live Dashboard:** [View Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMmZiNzkwMzItNGU1MS00OWUwLTgyYTEtN2FjODlhNWZiMWE2IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)  
+- **LinkedIn Post:** [View Post](#)  
+- **Dashboard Mockup:** [View Mockup PDF]([Mockup/Dashboard_Mockup.pdf](https://github.com/AlishaMahanty/Shield-Insurance-Analytics/blob/main/Dashboard_MockUp.pdf))
