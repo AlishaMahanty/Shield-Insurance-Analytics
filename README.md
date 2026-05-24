@@ -56,12 +56,12 @@ The dashboard is organized into **three main pages**, accessible via the **Home 
 - Customer Split: Offline-Agent channel dominates (14.9K, 55.4%), indicating strong reliance on agents for customer acquisition.
 - Revenue Split: Offline-Agent also contributes the highest revenue (551M, 55.7%), showing it is the most profitable channel.
 - Other Channels: Online-App, Offline-Direct, and Online-Website contribute smaller but meaningful portions, highlighting potential growth opportunities.
-- Monthly Trend by Sales Mode: Trends show fluctuating customer acquisition across channels. For example, March shows peaks across multiple channels, suggesting seasonal or campaign impact.
+- Monthly Trend by Sales Mode: Interactive trend analysis highlights fluctuations in both customers and revenue across sales channels, with March showing the strongest performance for most channels.
 
 #### Suggestions (what the business could act on):
 
 - Optimize Channel Strategy: Focus on strengthening high-performing channels (Offline-Agent) while strategizing growth for smaller channels like Online-Website.
-- Campaign Timing: Analyze the March spike for patterns and replicate successful strategies in other months.
+- Analyze Channel Trends: Review monthly customer and revenue trends across sales modes to identify high-performing periods, campaign impact, and growth opportunities.
 - Balance Channel Investment: Use revenue and customer contribution insights to allocate marketing and sales resources efficiently across channels.
 - Monitor Channel Performance: Track channel-wise metrics over time to detect drops in acquisition or revenue and intervene quickly.
 
