@@ -34,7 +34,7 @@ The dashboard is organized into **three main pages**, accessible via the **Home 
 - Customer Metrics: Total customers (26.8K) indicate the overall customer base size and growth potential.
 - Revenue Metrics: Total revenue (989.3M) provides a snapshot of business performance.
 - Daily Growth: DCGR (340) and DRGR (13.2M) show day-over-day changes in customers and revenue, helping identify trends or anomalies.
-- Monthly Trend: Revenue trend line highlights seasonal fluctuations or spikes (e.g., March peak at 263.84M).
+- Monthly Trend: Customer and revenue trends reveal performance fluctuations over time, with March showing the highest growth across both metrics.
 - City-wise Metrics: Delhi NCR leads in revenue (401.6M) and customers (11,007), showing high-performing regions.
 - Age Group Metrics: Largest contribution comes from 31–40 age group (356M revenue, 11,455 customers), identifying key customer demographics.
 - City & Age Group Split: Detailed table enables the business to target both city and age-specific marketing or policy strategies.
@@ -43,7 +43,7 @@ The dashboard is organized into **three main pages**, accessible via the **Home 
 
 - Focus Marketing & Sales Efforts: Prioritize high-revenue and high-customer cities like Delhi NCR and Mumbai for campaigns.
 - Target Key Age Groups: 31–40 and 41-50 age groups show the highest revenue contributions—develop products or promotions tailored to them.
-- Investigate Anomalies: March revenue spike may indicate seasonal policy uptake or campaign effects—review for insights.
+- Analyze Monthly Trends: Review spikes and drops in both customer and revenue trends to identify seasonal demand, campaign impact, and customer behavior patterns.
 - Monitor Daily Growth: Track DCGR and DRGR to quickly respond to sudden drops or growth surges.
 - Use Data-Driven Decisions: Leverage city & age group split to tailor localized marketing, policy adjustments, and customer retention strategies.
 
