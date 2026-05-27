@@ -27,7 +27,7 @@ The dashboard is organized into **three main pages**, accessible via the **Home 
 
 ### 1. General Overview
 
-![](https://github.com/AlishaMahanty/Shield-Insurance-Analytics/blob/main/Dashboard_images/Overview.png)
+![]()
 
 #### Insights (what the business can learn from this page):
 
