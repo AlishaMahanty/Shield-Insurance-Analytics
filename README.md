@@ -33,7 +33,7 @@ The dashboard is organized into **three main pages**, accessible via the **Home 
 
 - Customer Metrics: Total customers (26.8K) indicate the overall customer base size and growth potential.
 - Revenue Metrics: Total revenue (989.3M) provides a snapshot of business performance.
-- Daily Growth: DCGR (340) and DRGR (13.2M) show day-over-day changes in customers and revenue, helping identify trends or anomalies.
+- Daily Growth: DCG (148.29) and DRG (5.47M) show day-over-day changes in customers and revenue, helping identify trends or anomalies.
 - Monthly Trend: Customer and revenue trends reveal performance fluctuations over time, with March showing the highest growth across both metrics.
 - City-wise Metrics: Delhi NCR leads in revenue (401.6M) and customers (11,007), showing high-performing regions.
 - Age Group Metrics: Largest contribution comes from 31–40 age group (356M revenue, 11,455 customers), identifying key customer demographics.
