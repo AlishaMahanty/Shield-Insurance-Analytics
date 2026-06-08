@@ -98,5 +98,6 @@ The dashboard is organized into **three main pages**, accessible via the **Home 
 ## Project Resources
 
 - **Live Dashboard:** [View Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMmZiNzkwMzItNGU1MS00OWUwLTgyYTEtN2FjODlhNWZiMWE2IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)  
+- **Insights Presentation:** [View Presentation](https://www.linkedin.com/feed/update/urn:li:activity:7469599093032566784/)
 - **LinkedIn Post:** [View Post](https://www.linkedin.com/feed/update/urn:li:activity:7465309417283166208/)  
 - **Dashboard Mockup:** [View Mockup PDF](https://github.com/AlishaMahanty/Shield-Insurance-Analytics/blob/main/Dashboard_MockUp.pdf)
