@@ -101,3 +101,7 @@ The dashboard is organized into **three main pages**, accessible via the **Home 
 - **Insights Presentation:** [View Presentation](https://www.linkedin.com/feed/update/urn:li:activity:7469599093032566784/)
 - **LinkedIn Post:** [View Post](https://www.linkedin.com/feed/update/urn:li:activity:7465309417283166208/)  
 - **Dashboard Mockup:** [View Mockup PDF](https://github.com/AlishaMahanty/Shield-Insurance-Analytics/blob/main/Dashboard_MockUp.pdf)
+
+## Internship Context
+
+This analysis is part of my internship at AtliQ Technologies Pvt. Ltd. as a Data Analyst Intern. The project involved developing an end-to-end Power BI dashboard for Shield Insurance, analyzing customer trends, revenue performance, sales channels, and age group behavior. The insights and recommendations from this project are designed to help Shield Insurance optimize customer engagement, improve policy performance, and support data-driven decision-making across the organization.
