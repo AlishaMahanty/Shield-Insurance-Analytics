@@ -104,4 +104,4 @@ The dashboard is organized into **three main pages**, accessible via the **Home 
 
 ## Internship Context
 
-This analysis is part of my internship at AtliQ Technologies Pvt. Ltd. as a Data Analyst Intern. The project involved developing an end-to-end Power BI dashboard for Shield Insurance, analyzing customer trends, revenue performance, sales channels, and age group behavior. The insights and recommendations from this project are designed to help Shield Insurance optimize customer engagement, improve policy performance, and support data-driven decision-making across the organization.
+This analysis is a part of my internship at AtliQ Technologies Pvt. Ltd. as a Data Analyst Intern. The project involved developing an end-to-end Power BI dashboard for Shield Insurance, analyzing customer trends, revenue performance, sales channels, and age group behavior. The insights and recommendations from this project are designed to help Shield Insurance optimize customer engagement, improve policy performance, and support data-driven decision-making across the organization.
